@@ -7,6 +7,12 @@ Rules:
 - New languages should have a readable example, a short example and a copy of the word list
 - Output must be in the order specified below in _expected output_
 
+Current results:
+
+1. Ruby: 103
+2. Python: 133
+3. Javascript: 156
+
 Expected output:
 
 ```
