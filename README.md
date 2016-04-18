@@ -10,7 +10,7 @@ Rules:
 Current results:
 
 1. Ruby: 103
-2. Python: 133
+2. Python: 130
 3. Javascript: 156
 
 Expected output:
