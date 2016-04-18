@@ -10,41 +10,28 @@ Rules:
 Expected output:
 
 ```
-alt
-altfor
-andre
-at, ta
-bar, bra
-bry, byr
-dem, med
-den, ned
-denne, enden
-dra, rad
-drev
-drikke
-dro, ord, rod
-ende, nede
-engang, gangen
-ens, sen
-etter, rette
-gift
-gikk
-gilde
-hellestein, steinhelle
-hun
-hus
-kisten, skinte
-krok, rokk
-lovt, tolv
-lysnet, lysten
-løst, støl
-mor, rom
-navn, vann
-niste, stien
-ordet, torde
-ristet, sitter
-rå, år
-stuen, suten
-søsteren, søstrene
-truet, turte
+canters, scanter, nectars
+case
+decimal, claimed, medical
+alerted, treadle, related
+calendar
+chill
+dealing, aligned
+allergy, gallery
+gravy
+general, enlarge, gleaner
+created, reacted
+mitered, merited
+topical, capitol
+dormant
+hardest, trashed, threads
+instead, detains, sainted, stained
+rerun
+earnest, eastern, nearest
+retards, darters, starred
+blaze
+landscape
+gymnastic
+exhibit
+iron
 ```
