@@ -12,6 +12,7 @@ Current results:
 1. Ruby: 101
 2. Python: 130
 3. Javascript: 143
+4. Perl: 208
 
 Expected output:
 
