@@ -1,3 +1,3 @@
 my %h;open F,'words.txt';
-while($r=<F>){chop $r;$s=join('',sort(split('',$r)));if(!exists $h{$s}){$h{$s}=[]}push(@{%h{$s}},$r)}
-foreach $a(values %h){print join ', ',@{$a};print "\n";}
+while($r=<F>){chop $r;$h{join '',sort split '',$r}.="$r, "}
+for(values %h){print substr($_,0,-2)."\n"}
