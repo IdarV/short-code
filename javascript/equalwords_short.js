@@ -1,3 +1,4 @@
 d={}
-require('fs').readFileSync('words.txt','utf8').split('\r\n').map(i=>d[i.split('').sort()]+=', '+i)
-for(i in d)console.log(d[i].substr(11))
+require('fs').readFileSync('words.txt','utf8').split`\r
+`.map(i=>d[[...i].sort()]+=', '+i)
+for(i in d)console.log(d[i].slice(11))
