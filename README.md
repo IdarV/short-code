@@ -9,7 +9,7 @@ Rules:
 Current results:
 
 1. Ruby: 101
-2. Perl: 116
+2. Perl: 110
 3. Python: 122
 4. Javascript: 143
 
