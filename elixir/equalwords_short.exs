@@ -1,1 +1,1 @@
-import Enum;import Map;File.read!("words.txt")|>String.split("\n")|>reduce(%{},fn(a,b)->c=String.split(a,"")|>sort|>List.to_string;d=get(b,c,"");put(b,c,"#{d}, #{a}")end)|>values|>each(fn(a)->String.split_at(a,2)|>elem(1)|>IO.puts;end)
+import Enum;import Map;File.read!("../words.txt")|>String.split("\n")|>reduce(%{},fn(a,b)->c=String.split(a,"")|>sort|>List.to_string;d=get(b,c,"");put(b,c,"#{d}, #{a}")end)|>values|>each(fn(a)->String.split_at(a,2)|>elem(1)|>IO.puts;end)

@@ -15,7 +15,7 @@ Current results:
 2. Ruby: 97
 3. Python: 122
 4. Javascript: 138
-5. Elixir: 236
+5. Elixir: 239
 
 Expected output:
 
