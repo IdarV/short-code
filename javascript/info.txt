@@ -1,0 +1,2 @@
+version: v5.10.1
+run: node equalwords_short.js
