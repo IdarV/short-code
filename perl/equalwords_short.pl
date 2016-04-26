@@ -1,1 +1,1 @@
-%h;open F,'words.txt';for(<F>){chop;$h{join//,sort$_=~/./g}.=", $_"}map{print substr$_,2,.$/}values%h
+%h;open F,'words.txt';map{chop;$h{0,sort/./g}.=", $_"}<F>;print substr$_,2,.$/for values%h

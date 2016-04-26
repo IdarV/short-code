@@ -8,8 +8,8 @@ Rules:
 
 Current results:
 
-1. Ruby: 101
-1. Perl: 101
+1. Perl: 90
+2. Ruby: 101
 3. Python: 118
 4. Javascript: 134
 5. Elixir: 236
