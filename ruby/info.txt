@@ -1,0 +1,2 @@
+version: ruby 2.1.2p95 (2014-05-08) [x86_64-linux-gnu]
+command: ruby equalwords_short.rb ../words.txt
