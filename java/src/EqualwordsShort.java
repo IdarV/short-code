@@ -1,5 +1,1 @@
-/**
- * Created by idarv on 24/08/16.
- */
-public class EqualwordsShort {
-}
+import java.nio.file.*;interface EqualwordsShort{static void main(String[]a)throws Exception{Files.lines(Paths.get("../words.txt")).collect(java.util.stream.Collectors.groupingBy(w->{char[]c=(""+w).toCharArray();java.util.Arrays.sort(c);return new String(c);})).values().forEach(l->System.out.println(l.stream().collect(java.util.stream.Collectors.joining(", "))));}}

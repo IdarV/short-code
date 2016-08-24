@@ -16,6 +16,7 @@ Current results:
 3. Python: 122
 4. Javascript: 138
 5. Elixir: 239
+6. Java: 368
 
 Expected output:
 
