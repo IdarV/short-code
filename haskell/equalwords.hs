@@ -1,5 +1,5 @@
 import System.IO
 
 main = do
-	contents <- readFile "../words.txt"
-	putStr contents
+	words <- readFile "../words.txt"
+	putStr words
