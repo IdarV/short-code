@@ -1,15 +1,10 @@
 # short-code
 This is a project where i try to list anagrams from a word list with the least
-amount of _characters_ in different languages. This is called _code golfing_
+amount of _characters_ in different languages. This is called _code golfing_.
 
-In Ubuntu, OSX and Windows(GitBash) you can count size with ```wc -c [filename]```
+In Linux, OSX and Windows(GitBash) you can count the file size with ```wc -c [filename]```
 
-Rules:
-- New languages should follow the same folder and naming structures
-- New languages should have a readable example, a short example and a copy of the word list
-- Passing the filename as an argument is allowed
-
-Current results:
+Results:
 
 1. Perl: 87
 2. Ruby: 97
@@ -19,7 +14,15 @@ Current results:
 6. Elixir: 239
 7. Java: 368
 
-Expected output:
+Rules:
+- New languages should follow the same folder and naming conventions
+- All languages should have a readable example (how it would look as a readable, normal program)
+- New languages should have a information file containing language version and how to run the script
+- Passing the filename as an argument is allowed
+- The output have to comma seperate the words (see _Example of expected output_ below)
+
+
+Example of expected output:
 
 ```
 canters, scanter, nectars
