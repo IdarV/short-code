@@ -1,6 +1,3 @@
-/**
-  * Created by idarv on 27/08/16.
-  */
 object Equalwords extends App {
   var x = scala.collection.mutable.Map[String, String]()
   val fileLines = io.Source.fromFile("../words.txt").getLines.toList
