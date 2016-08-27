@@ -1,16 +1,18 @@
 object Equalwords extends App {
-  var x = scala.collection.mutable.Map[String, String]()
   val fileLines = io.Source.fromFile("../words.txt").getLines.toList
-  for (line <- fileLines) {
-    val sortedKey: String = line.split("").sorted.mkString("")
-    var value: String = x.getOrElse(sortedKey, "")
-    if (value == "") {
-      value += line
-    } else {
-      value += ", " + line
-    }
-    x(sortedKey) = value
-  }
+  var readSorted = List("")
 
-  for (v <- x.values) println(v)
+  for (line <- fileLines) {
+    val sorted = line.sorted;
+    if (!readSorted.contains(sorted)) {
+      var anagrams = line
+
+      for (_line <- fileLines) {
+        if (_line.sorted == sorted && _line != line) anagrams += ", " + _line
+      }
+
+      println(anagrams)
+      readSorted = sorted :: readSorted
+    }
+  }
 }
