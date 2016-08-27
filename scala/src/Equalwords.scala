@@ -4,13 +4,13 @@
 object Equalwords extends App {
   var x = scala.collection.mutable.Map[String, String]()
   val fileLines = io.Source.fromFile("../words.txt").getLines.toList
-  for (k <- fileLines) {
-    val sortedKey: String = k.split("").sorted.mkString("")
+  for (line <- fileLines) {
+    val sortedKey: String = line.split("").sorted.mkString("")
     var value: String = x.getOrElse(sortedKey, "")
     if (value == "") {
-      value += k
+      value += line
     } else {
-      value += ", " + k
+      value += ", " + line
     }
     x(sortedKey) = value
   }
