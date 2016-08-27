@@ -15,8 +15,9 @@ Current results:
 2. Ruby: 97
 3. Python: 122
 4. Javascript: 138
-5. Elixir: 239
-6. Java: 368
+5. Scala: 223
+6. Elixir: 239
+7. Java: 368
 
 Expected output:
 
