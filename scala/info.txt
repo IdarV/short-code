@@ -1,0 +1,2 @@
+version: scala-version [info] 2.10.6
+command: scala EqualWordsShort.scala ../words.txt
