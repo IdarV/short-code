@@ -1,6 +1,6 @@
 # short-code
 This is a project where i try to list anagrams from a word list with the least
-amount of _characters_ in different languages. This is called _code golfing_.
+amount of _characters_ in different languages. This is called _code golfing_. Feel free to improve a language or add a new one, and send a pull request :)
 
 In Linux, OSX and Windows(GitBash) you can count the file size with ```wc -c [filename]```
 
