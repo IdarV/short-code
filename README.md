@@ -7,7 +7,7 @@ In Linux, OSX and Windows(GitBash) you can count the file size with ```wc -c [fi
 Results:
 
 1. Perl: 87
-2. Ruby: 97
+2. Ruby: 94
 3. Python: 122
 4. Javascript: 138
 5. Scala: 214
