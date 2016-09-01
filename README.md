@@ -9,8 +9,8 @@ Results:
 1. Perl: 87
 2. Ruby: 94
 3. Python: 122
-4. Javascript: 138
-5. Scala: 214
+4. Scala: 136
+5. Javascript: 138
 6. Elixir: 239
 7. Java: 368
 
