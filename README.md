@@ -12,7 +12,7 @@ Results:
 4. Scala: 135
 5. Javascript: 138
 6. Elixir: 239
-7. Java: 368
+7. Java: 333
 
 Rules:
 - New languages should follow the same folder and naming conventions
