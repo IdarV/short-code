@@ -1,3 +1,1 @@
-c=Hash.new{|h,k|h[k]=[]}
-IO.foreach($*[0]){|w|c[w.chars.sort]<<w.chop}
-c.map{|k,v|puts v*', '}
+IO.readlines($*[0]).map(&:chop).group_by{|i|i.chars.sort}.map{|k,v|puts v*', '}
