@@ -8,11 +8,12 @@ Results:
 
 1. Perl: 87
 2. Ruby: 94
-3. Python: 122
-4. Scala: 135
-5. Javascript: 138
-6. Elixir: 239
-7. Java: 333
+3. Kotlin: 104
+4. Python: 122
+5. Scala: 135
+6. Javascript: 138
+7. Elixir: 239
+8. Java: 333
 
 Rules:
 - New languages should follow the same folder and naming conventions
@@ -20,7 +21,6 @@ Rules:
 - New languages should have a information file containing language version and how to run the script
 - Passing the filename as an argument is allowed
 - The output have to comma seperate the words (see _Example of expected output_ below)
-
 
 Example of expected output:
 
