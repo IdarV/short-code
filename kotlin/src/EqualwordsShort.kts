@@ -1,0 +1,1 @@
+java.io.File(args[0]).readLines().groupBy({it.toList().sorted()}).values.map{println(it.joinToString())}

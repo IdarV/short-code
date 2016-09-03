@@ -22,7 +22,6 @@ Rules:
 - Passing the filename as an argument is allowed
 - The output have to comma seperate the words (see _Example of expected output_ below)
 
-
 Example of expected output:
 
 ```
