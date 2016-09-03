@@ -1,0 +1,2 @@
+command: kotlinc -script EqualwordsShort.kts ../../words.txt
+version: kotlin/1.0.3/

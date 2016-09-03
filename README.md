@@ -13,11 +13,12 @@ Current results:
 
 1. Perl: 87
 2. Ruby: 97
-3. Python: 122
-4. Scala: 135
-5. Javascript: 138
-6. Elixir: 239
-7. Java: 333
+3. Kotlin: 104
+4. Python: 122
+5. Scala: 135
+6. Javascript: 138
+7. Elixir: 239
+8. Java: 333
 
 Expected output:
 
