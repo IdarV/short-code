@@ -1,1 +1,1 @@
-IO.readlines($*[0]).map(&:chop).group_by{|i|i.chars.sort}.map{|k,v|puts v*', '}
+$<.map(&:chop).group_by{|i|i.chars.sort}.map{|k,v|puts v*', '}
