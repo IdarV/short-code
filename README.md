@@ -13,7 +13,7 @@ Results:
 5. Scala: 135
 6. Javascript: 138
 7. Elixir: 239
-8. Go: 294
+8. Go: 276
 9. Java: 333
 
 Rules:
