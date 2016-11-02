@@ -8,9 +8,9 @@ Results:
 
 1. Ruby: 62
 2. Perl: 87
-3. Kotlin: 104
-4. Python: 122
-5. Scala: 135
+3. Scala: 100
+4. Kotlin: 104
+5. Python: 122
 6. Javascript: 138
 7. Elixir: 239
 8. Go: 276
