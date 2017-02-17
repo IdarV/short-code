@@ -1,0 +1,1 @@
+f<-readLines("../words.txt");h<-new.env();for(r in f){s=paste(sort(unlist(strsplit(r, ""))),collapse="");h[[s]]=paste(h[[s]],r)};for(v in ls(h))cat(paste(h[[v]],'\n'))
