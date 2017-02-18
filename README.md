@@ -6,15 +6,16 @@ In Linux, OSX and Windows(GitBash) you can count the file size with ```wc -c [fi
 
 Results:
 
-1. Ruby: 61
-2. Perl: 87
-3. Scala: 100
-4. Kotlin: 104
-5. Python: 122
-6. Javascript: 138
-7. Elixir: 239
-8. Go: 276
-9. Java: 333
+01. Ruby: 61
+02. Perl: 87
+03. Scala: 100
+04. Kotlin: 104
+05. Python: 122
+06. R: 152
+07. Javascript: 138
+08. Elixir: 239
+09. Go: 276
+10. Java: 333
 
 Rules:
 - New languages should follow the same folder and naming conventions
