@@ -1,0 +1,2 @@
+version: R scripting front-end version 3.3.2 (2016-10-31)
+command: Rscript equalwords_short.r
