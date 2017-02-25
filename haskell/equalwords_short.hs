@@ -1,3 +1,3 @@
 import Data.List
 import GHC.Exts
-main=do input<-readFile"../words.txt";mapM putStrLn$map(intercalate", ")$groupWith sort$lines input
+main=readFile"../words.txt">>=putStrLn.intercalate"\n".map(intercalate", ").groupWith sort.lines
