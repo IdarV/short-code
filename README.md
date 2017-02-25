@@ -10,8 +10,8 @@ Results:
 02. Perl: 87
 03. Scala: 100
 04. Kotlin: 104
-05. Python: 122
-06. Haskell 123
+05. Haskell 118
+06. Python: 122
 07. R: 152
 08. Javascript: 138
 09. Elixir: 239
