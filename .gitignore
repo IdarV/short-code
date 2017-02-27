@@ -3,4 +3,6 @@
 */out
 scala/src/target
 kotlin/lib
+haskell/*.hi
+haskell/*.o
 .vscode
