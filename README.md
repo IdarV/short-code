@@ -12,11 +12,12 @@ Results:
 04. Kotlin: 104
 05. Haskell 118
 06. Python: 122
-07. R: 152
+07. PHP: 133
 08. Javascript: 138
-09. Elixir: 239
-10. Go: 276
-11. Java: 333
+09. R: 152
+10. Elixir: 239
+11. Go: 276
+12. Java: 333
 
 Rules:
 - New languages should follow the same folder and naming conventions
