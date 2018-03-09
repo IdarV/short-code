@@ -6,3 +6,4 @@ kotlin/lib
 haskell/*.hi
 haskell/*.o
 .vscode
+node_modules
