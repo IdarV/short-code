@@ -13,7 +13,7 @@ Results:
 05. Haskell 118
 06. Python: 122
 07. PHP: 133
-08. Javascript: 138
+08. Javascript: 135
 09. R: 152
 10. Elixir: 239
 11. Go: 276
